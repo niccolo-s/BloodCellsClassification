@@ -1,5 +1,5 @@
 # Convolutional Neural Network for Blood Cells Classification
-This project was developed as part of the evaluation for the _Artificial Neural Networks and Deep Learning_ course at Politecnico di Milano, A.Y. 2024-2025.
+This project was developed during a two-week Coding Challenge as part of the evaluation for the _Artificial Neural Networks and Deep Learning_ course at Politecnico di Milano, A.Y. 2024-2025.
 The programming language used is Python, specifically employing the TensorFlow/Keras library.
 
 # Files description
@@ -12,6 +12,9 @@ The programming language used is Python, specifically employing the TensorFlow/K
 - Alberto Pola
 - Fabio Romagnoli
 - Niccolò Signorelli
+
+# Final results 
+The
 
 # Grade
 This project received the highest grade possible (5.5 out of 5.5).
