@@ -8,7 +8,7 @@ The programming language used is Python, specifically employing the TensorFlow/K
 - [EfficientNetB6_Tuned.ipynb](https://github.com/niccolo-s/BloodCellsClassification/blob/main/EfficientNetB6_Tuned.ipynb), [ResNet152_Tuned.ipynb](https://github.com/niccolo-s/BloodCellsClassification/blob/main/ResNet152_Tuned.ipynb), [ResNet50_Tuned.ipynb](https://github.com/niccolo-s/BloodCellsClassification/blob/main/ResNet50_Tuned.ipynb) are the notebooks that contain the code for building, training and testing the models. Here you can also find the specific performance metrics for each model.
 
 # Final results 
-The final model was an ensemble of the three models listed above, achieving an accuracy of 91.7% on a highly corrupted test set used for the evaluation.
+The final model was an ensemble of the three models listed above, achieving an overall __accuracy of 91.7%__ on a highly corrupted test set used for the evaluation.
 
 # Authors
 - Agnese Negroni
