@@ -12,3 +12,6 @@ The programming language used is Python, specifically employing the TensorFlow/K
 - Alberto Pola
 - Fabio Romagnoli
 - Niccolò Signorelli
+
+# Grade
+This project received the highest grade possible (5.5 out of 5.5).
